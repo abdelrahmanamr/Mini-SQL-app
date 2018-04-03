@@ -1,5 +1,5 @@
 # Mini-SQL-app
-# this application has been done by 5 particpant:-
+# this application has been done by 5 participant:-
 1- Abdelrahman Amr
 2- Youssef Haitham
 3- Loai Alaa
